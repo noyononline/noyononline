@@ -69,15 +69,15 @@ Hello there! I am Akter Hossen Noyon. I am an experienced front-end developer wi
 
 <a href="https://github.com/noyononline"><img src="https://github-readme-stats.vercel.app/api?username=noyononline&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="noyononline's GitHub stats" /></a>
 
-<a href="http://www.github.com/0xNaim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0xNaim&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/noyononline"><img src="https://github-readme-streak-stats.herokuapp.com/?user=noyononline&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/0xNaim"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=0xNaim&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/noyononline"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=noyononline&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-[facebook]: https://web.facebook.com/0xNaim 'Facebook'
+[facebook]: https://www.facebook.com/akterhossennoyon 'Facebook'
 [instagram]: https://www.instagram.com/0xNaim 'Instagram'
-[linkedin]: https://www.linkedin.com/in/0xnaim 'LinkedIn'
-[github]: https://github.com/0xNaim 'Github'
+[linkedin]: https://www.linkedin.com/in/noyononlinen/ 'LinkedIn'
+[github]: https://github.com/noyononline 'Github'
 [medium]: https://medium.com/@0xNaim 'Medium'
 [stackoverflow]: https://stackoverflow.com/users/14739490/naim 'Stackoverflow'
 [telegram]: https://t.me/Naim_1234 'Telegram'
-[link]: https://github.com/0xNaim
+[link]: https://github.com/noyononline
