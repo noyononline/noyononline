@@ -1,15 +1,11 @@
 ```
-   ____       _   __      _         
-  / __ \_  __/ | / /___ _(_)___ ___ 
- / / / / |/_/  |/ / __ `/ / __ `__ \
-/ /_/ />  </ /|  / /_/ / / / / / / /
-\____/_/|_/_/ |_/\__,_/_/_/ /_/ /_/ 
+   
                                     
 ```
 
 
 
-### **Hi, I'm [Omar Faruq][facebook]** :wave:
+### **Hi, I'm [Akter Hossen Noyon][facebook]** :wave:
 
 <!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
