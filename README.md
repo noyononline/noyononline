@@ -78,6 +78,6 @@ Hello there! I am Akter Hossen Noyon. I am an experienced front-end developer wi
 [linkedin]: https://www.linkedin.com/in/noyononlinen/ 'LinkedIn'
 [github]: https://github.com/noyononline 'Github'
 [medium]: https://medium.com/@noyononlinen 'Medium'
-[stackoverflow]: https://stackoverflow.com/users/14739490/naim 'Stackoverflow'
-[telegram]: https://t.me/Naim_1234 'Telegram'
+[stackoverflow]: https://stackoverflow.com/users/23141569/akter-hossen-noyon 'Stackoverflow'
+[telegram]:  'Telegram'
 [link]: https://github.com/noyononline
