@@ -61,13 +61,13 @@ Hello there! I am Akter Hossen Noyon. I am an experienced front-end developer wi
 
 ## **Get in Touch &#8595;**
 
-- Email: naimislam3545@gmail.com
-- Facebook: https://www.facebook.com/0xNaim
-- LinkedIn: https://www.linkedin.com/in/0xnaim
+- Email: noyononlinen@gmail.com
+- Facebook: https://www.facebook.com/akterhossennoyon
+- LinkedIn: https://www.linkedin.com/in/noyononlinen/
 
 ## **GitHub Activities &#8595;**
 
-<a href="http://www.github.com/0xNaim"><img src="https://github-readme-stats.vercel.app/api?username=0xNaim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="0xNaim's GitHub stats" /></a>
+<a href="https://github.com/noyononline"><img src="https://github-readme-stats.vercel.app/api?username=noyononline&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="noyononline's GitHub stats" /></a>
 
 <a href="http://www.github.com/0xNaim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0xNaim&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
